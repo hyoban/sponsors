@@ -1,0 +1,16 @@
+{
+  "name": "sponsors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "sponsorkit"
+  },
+  "packageManager": "pnpm@9.1.1",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sponsorkit": "0.14.4"
+  }
+}
