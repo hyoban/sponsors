@@ -4,7 +4,8 @@
 
 If my code has helped you, please consider sponsoring me.
 
-- Become a Sponser on [爱发电](https://afdian.net/a/hyoban)
+- Become a Sponser on [GitHub](https://github.com/sponsors/hyoban)
+- Become a Sponser on [爱发电](https://afdian.com/a/hyoban)
 
 Thank you for your support!
 
