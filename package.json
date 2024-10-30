@@ -6,11 +6,11 @@
   "scripts": {
     "build": "sponsorkit"
   },
-  "packageManager": "pnpm@9.1.1",
+  "packageManager": "pnpm@9.12.3",
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "sponsorkit": "0.14.4"
+    "sponsorkit": "0.15.5"
   }
 }
