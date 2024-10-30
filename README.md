@@ -10,8 +10,8 @@ If my code has helped you, please consider sponsoring me.
 Thank you for your support!
 
 <p align="center">
-  <a href="./sponsorkit/sponsors.svg">
-    <img src='./sponsorkit/sponsors.svg'/>
+  <a href="https://github.com/hyoban/sponsors">
+    <img src='https://cdn.jsdelivr.net/gh/hyoban/sponsors/sponsorkit/sponsors.svg'/>
   </a>
 </p>
 
