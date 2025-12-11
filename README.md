@@ -11,7 +11,7 @@ Thank you for your support!
 
 <p align="center">
   <a href="https://github.com/hyoban/sponsors">
-    <img src='https://cdn.jsdelivr.net/gh/hyoban/sponsors/sponsorkit/sponsors.svg'/>
+    <img src="https://raw.githubusercontent.com/hyoban/sponsors/refs/heads/main/sponsorkit/sponsors.png" />
   </a>
 </p>
 
