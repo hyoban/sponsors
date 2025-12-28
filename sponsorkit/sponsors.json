@@ -8385,7 +8385,7 @@
     "sponsor": {
       "type": "User",
       "login": "93f687fc97f011ee80375254001e7c00",
-      "name": "Fantastic-admin",
+      "name": "Hooray",
       "avatarUrl": "https://pic1.afdiancdn.com/user/93f687fc97f011ee80375254001e7c00/avatar/77e77acef5bffaf4ba2ec1091507f86c_w256_h256_s4.png",
       "linkUrl": "https://afdian.com/u/93f687fc97f011ee80375254001e7c00",
       "avatarBuffer": {
@@ -9439,7 +9439,7 @@
       "last_pay_time": 1740704118,
       "user": {
         "user_id": "93f687fc97f011ee80375254001e7c00",
-        "name": "Fantastic-admin",
+        "name": "Hooray",
         "avatar": "https://pic1.afdiancdn.com/user/93f687fc97f011ee80375254001e7c00/avatar/77e77acef5bffaf4ba2ec1091507f86c_w256_h256_s4.png",
         "user_private_id": "09c0da840762f7702e51436698aaf82ddce9cf49"
       }
