@@ -15,7 +15,7 @@ Thank you for your support!
   </a>
 </p>
 
-I'm sponsoring
+My cumulative sponsorship history.
 
 <p align="center">
   <a href="https://github.com/hyoban/sponsors">
