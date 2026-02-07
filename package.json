@@ -4,13 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "sponsorkit"
+    "build": "SPONSORKIT_MODE=sponsor sponsorkit && SPONSORKIT_MODE=sponsoring sponsorkit"
   },
   "packageManager": "pnpm@10.10.0",
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "sponsorkit": "16.4.2"
+    "sponsorkit": "https://pkg.pr.new/hyoban/sponsorkit@8e021f8"
+  },
+  "devDependencies": {
+    "@types/node": "^25.2.1"
   }
 }
