@@ -5,7 +5,7 @@ const mode = process.env.SPONSORKIT_MODE as 'sponsor' | 'sponsoring'
 
 export default defineConfig({
   mode,
-  tiers: mode ? [
+  tiers: mode === 'sponsor' ? [
     {
       title: 'Active Sponsors',
       preset: tierPresets.xs,
