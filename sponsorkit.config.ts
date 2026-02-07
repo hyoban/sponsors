@@ -1,4 +1,4 @@
-import { defineConfig, tierPresets } from 'sponsorkit'
+import { defineConfig, tierPresets, defaultTiers } from 'sponsorkit'
 import process from 'node:process'
 
 const mode = process.env.SPONSORKIT_MODE as 'sponsor' | 'sponsoring'
@@ -15,6 +15,6 @@ export default defineConfig({
       monthlyDollars: -1,
       preset: tierPresets.xs,
     },
-  ] : undefined,
+  ] : defaultTiers,
   outputDir: `./sponsorkit/${mode}`,
 })
