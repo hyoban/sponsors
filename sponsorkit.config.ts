@@ -15,6 +15,6 @@ export default defineConfig({
       monthlyDollars: -1,
       preset: tierPresets.xs,
     },
-  ] : [],
+  ] : undefined,
   outputDir: `./sponsorkit/${mode}`,
 })
