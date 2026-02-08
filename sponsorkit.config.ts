@@ -8,12 +8,12 @@ export default defineConfig({
   tiers: mode === 'sponsor' ? [
     {
       title: 'Active Sponsors',
-      preset: tierPresets.xs,
+      preset: tierPresets.base,
     },
     {
       title: 'Past Sponsors',
       monthlyDollars: -1,
-      preset: tierPresets.xs,
+      preset: tierPresets.base,
     },
   ] : [
     {
