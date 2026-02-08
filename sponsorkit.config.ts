@@ -8,32 +8,32 @@ export default defineConfig({
   tiers: mode === 'sponsor' ? [
     {
       title: 'Active Sponsors',
-      preset: tierPresets.base,
+      preset: tierPresets.small,
     },
     {
       title: 'Past Sponsors',
       monthlyDollars: -1,
-      preset: tierPresets.base,
+      preset: tierPresets.small,
     },
   ] : [
     {
       title: 'Backer',
-      preset: tierPresets.base,
+      preset: tierPresets.small,
     },
     {
       title: 'Sponsor',
       monthlyDollars: 10,
-      preset: tierPresets.medium,
+      preset: tierPresets.base,
     },
     {
       title: 'Silver Supporter',
       monthlyDollars: 50,
-      preset: tierPresets.large,
+      preset: tierPresets.medium,
     },
     {
       title: 'Gold Supporter',
       monthlyDollars: 100,
-      preset: tierPresets.xl,
+      preset: tierPresets.large,
     },
   ],
   outputDir: `./sponsorkit/${mode}`,
