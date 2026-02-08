@@ -53024,7 +53024,6 @@
       "login": "sosukesuzuki",
       "name": "SUZUKI Sosuke",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14838850?u=ede8a07cc97180e8e98036ebd58b568c19f1c814&v=4",
-      "websiteUrl": "https://sosukesuzuki.dev",
       "linkUrl": "https://github.com/sosukesuzuki",
       "socialLogins": {
         "github": "sosukesuzuki"
@@ -54589,7 +54588,7 @@
             "login": "sosukesuzuki",
             "name": "SUZUKI Sosuke",
             "avatarUrl": "https://avatars.githubusercontent.com/u/14838850?u=ede8a07cc97180e8e98036ebd58b568c19f1c814&v=4",
-            "websiteUrl": "https://sosukesuzuki.dev"
+            "websiteUrl": null
           }
         }
       ],
