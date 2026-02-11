@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       sponsorkit:
-        specifier: https://pkg.pr.new/hyoban/sponsorkit@8e021f8
-        version: https://pkg.pr.new/hyoban/sponsorkit@8e021f8
+        specifier: https://pkg.pr.new/hyoban/sponsorkit@3a81f68
+        version: https://pkg.pr.new/hyoban/sponsorkit@3a81f68
     devDependencies:
       '@types/node':
         specifier: ^25.2.1
@@ -212,8 +212,8 @@ packages:
     resolution: {integrity: sha512-Ou9I5Ft9WNcCbXrU9cMgPBcCK8LiwLqcbywW3t4oDV37n1pzpuNLsYiAV8eODnjbtQlSDwZ2cUEeQz4E54Hltg==}
     engines: {node: ^18.17.0 || ^20.3.0 || >=21.0.0}
 
-  sponsorkit@https://pkg.pr.new/hyoban/sponsorkit@8e021f8:
-    resolution: {tarball: https://pkg.pr.new/hyoban/sponsorkit@8e021f8}
+  sponsorkit@https://pkg.pr.new/hyoban/sponsorkit@3a81f68:
+    resolution: {tarball: https://pkg.pr.new/hyoban/sponsorkit@3a81f68}
     version: 17.0.0
     hasBin: true
 
@@ -402,7 +402,7 @@ snapshots:
       '@img/sharp-win32-ia32': 0.34.5
       '@img/sharp-win32-x64': 0.34.5
 
-  sponsorkit@https://pkg.pr.new/hyoban/sponsorkit@8e021f8:
+  sponsorkit@https://pkg.pr.new/hyoban/sponsorkit@3a81f68:
     dependencies:
       ansis: 4.2.0
       cac: 6.7.14

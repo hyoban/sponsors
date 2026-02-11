@@ -4,14 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "SPONSORKIT_MODE=sponsor sponsorkit && SPONSORKIT_MODE=sponsoring sponsorkit"
+    "build": "SPONSORKIT_MODE=sponsors sponsorkit && SPONSORKIT_MODE=sponsees sponsorkit"
   },
   "packageManager": "pnpm@10.10.0",
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "sponsorkit": "https://pkg.pr.new/hyoban/sponsorkit@8e021f8"
+    "sponsorkit": "https://pkg.pr.new/hyoban/sponsorkit@3a81f68"
   },
   "devDependencies": {
     "@types/node": "^25.2.1"

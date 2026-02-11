@@ -1,11 +1,11 @@
 import process from 'node:process'
 import { defineConfig, tierPresets } from 'sponsorkit'
 
-const mode = process.env.SPONSORKIT_MODE as 'sponsor' | 'sponsoring'
+const mode = process.env.SPONSORKIT_MODE as 'sponsors' | 'sponsees'
 
 export default defineConfig({
   mode,
-  tiers: mode === 'sponsor' ? [
+  tiers: mode === 'sponsors' ? [
     {
       title: 'Active Sponsors',
       preset: tierPresets.small,
@@ -36,5 +36,4 @@ export default defineConfig({
       preset: tierPresets.large,
     },
   ],
-  outputDir: `./sponsorkit/${mode}`,
 })
