@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "sponsorkit": "https://pkg.pr.new/hyoban/sponsorkit@3a81f68"
+    "sponsorkit": "https://pkg.pr.new/hyoban/sponsorkit@14ef86a"
   },
   "devDependencies": {
     "@types/node": "^25.2.1"

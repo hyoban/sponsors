@@ -5,6 +5,7 @@ const mode = process.env.SPONSORKIT_MODE as 'sponsors' | 'sponsees'
 
 export default defineConfig({
   mode,
+  providers: mode === 'sponsors' ? ['github', 'opencollective'] : ['github', 'afdian'],
   tiers: mode === 'sponsors' ? [
     {
       title: 'Active Sponsors',
