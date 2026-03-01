@@ -43811,7 +43811,7 @@
         {
           "createdAt": "2024-11-22T03:56:19Z",
           "privacyLevel": "PUBLIC",
-          "isActive": true,
+          "isActive": false,
           "tier": {
             "name": "$5 one time",
             "isOneTime": true,
@@ -110928,7 +110928,7 @@
         {
           "createdAt": "2026-01-26T04:37:20Z",
           "privacyLevel": "PUBLIC",
-          "isActive": true,
+          "isActive": false,
           "tier": {
             "name": "$5 one time",
             "isOneTime": true,
