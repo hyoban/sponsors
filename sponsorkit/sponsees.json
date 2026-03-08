@@ -22221,7 +22221,7 @@
       }
     },
     "isOneTime": false,
-    "monthlyDollars": 13.06,
+    "monthlyDollars": 18.06,
     "privacyLevel": "PUBLIC",
     "tierName": "$5 a month",
     "createdAt": "2024-11-22T03:39:28Z",
@@ -22246,7 +22246,7 @@
           }
         }
       ],
-      "totalSponsoredCents": 1306
+      "totalSponsoredCents": 1806
     },
     "provider": "github"
   },
@@ -47123,7 +47123,7 @@
       }
     },
     "isOneTime": false,
-    "monthlyDollars": 13.06,
+    "monthlyDollars": 18.06,
     "privacyLevel": "PUBLIC",
     "tierName": "$5 a month",
     "createdAt": "2024-11-22T03:56:40Z",
@@ -47148,7 +47148,7 @@
           }
         }
       ],
-      "totalSponsoredCents": 1306
+      "totalSponsoredCents": 1806
     },
     "provider": "github"
   },
@@ -98578,7 +98578,7 @@
       }
     },
     "isOneTime": false,
-    "monthlyDollars": 8.06,
+    "monthlyDollars": 13.06,
     "privacyLevel": "PUBLIC",
     "tierName": "$5 a month",
     "createdAt": "2026-01-18T15:09:33Z",
@@ -98603,7 +98603,7 @@
           }
         }
       ],
-      "totalSponsoredCents": 806
+      "totalSponsoredCents": 1306
     },
     "provider": "github"
   },
@@ -103724,7 +103724,7 @@
     "sponsor": {
       "type": "User",
       "login": "TkDodo",
-      "name": "Dominik Dorfmeister",
+      "name": "Dominik Dorfmeister 🔮",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1021430?u=0a92dbd7ba30e5e43654c99f6112946aed6ffe7b&v=4",
       "websiteUrl": "https://tkdodo.eu",
       "linkUrl": "https://github.com/TkDodo",
@@ -108185,7 +108185,7 @@
           "sponsorable": {
             "__typename": "User",
             "login": "TkDodo",
-            "name": "Dominik Dorfmeister",
+            "name": "Dominik Dorfmeister 🔮",
             "avatarUrl": "https://avatars.githubusercontent.com/u/1021430?u=0a92dbd7ba30e5e43654c99f6112946aed6ffe7b&v=4",
             "websiteUrl": "tkdodo.eu"
           }
