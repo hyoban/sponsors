@@ -105028,7 +105028,6 @@
       "login": "lumirlumir",
       "name": "lumir",
       "avatarUrl": "https://avatars.githubusercontent.com/u/119669540?u=3b86ec42a9346edd3eb790cd1d8b9285b4b5ef27&v=4",
-      "websiteUrl": "https://lumir.page",
       "linkUrl": "https://github.com/lumirlumir",
       "socialLogins": {
         "github": "lumirlumir"
@@ -105983,7 +105982,7 @@
             "login": "lumirlumir",
             "name": "lumir",
             "avatarUrl": "https://avatars.githubusercontent.com/u/119669540?u=3b86ec42a9346edd3eb790cd1d8b9285b4b5ef27&v=4",
-            "websiteUrl": "lumir.page"
+            "websiteUrl": null
           }
         }
       ],
