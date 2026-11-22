@@ -21292,7 +21292,7 @@
       }
     },
     "isOneTime": false,
-    "monthlyDollars": 63.06,
+    "monthlyDollars": 68.06,
     "privacyLevel": "PUBLIC",
     "tierName": "$5 a month",
     "createdAt": "2024-11-22T03:39:28Z",
@@ -21301,7 +21301,7 @@
         {
           "createdAt": "2024-11-22T03:39:28Z",
           "privacyLevel": "PUBLIC",
-          "isActive": true,
+          "isActive": false,
           "tier": {
             "name": "$5 a month",
             "isOneTime": false,
@@ -21317,7 +21317,7 @@
           }
         }
       ],
-      "totalSponsoredCents": 6306
+      "totalSponsoredCents": 6806
     },
     "provider": "github"
   },
@@ -42273,7 +42273,7 @@
       }
     },
     "isOneTime": false,
-    "monthlyDollars": 63.06,
+    "monthlyDollars": 68.06,
     "privacyLevel": "PUBLIC",
     "tierName": "$5 a month",
     "createdAt": "2024-11-22T03:56:40Z",
@@ -42282,7 +42282,7 @@
         {
           "createdAt": "2024-11-22T03:56:40Z",
           "privacyLevel": "PUBLIC",
-          "isActive": true,
+          "isActive": false,
           "tier": {
             "name": "$5 a month",
             "isOneTime": false,
@@ -42298,7 +42298,7 @@
           }
         }
       ],
-      "totalSponsoredCents": 6306
+      "totalSponsoredCents": 6806
     },
     "provider": "github"
   },
